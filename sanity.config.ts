@@ -7,7 +7,7 @@ export default defineConfig({
   name: "default",
   title: "Przedszkole Terapeutyczne",
 
-  projectId: "your-project-id", // Zastąp swoim ID projektu z Sanity
+  projectId: "78zd0pdp", // Zastąp swoim ID projektu z Sanity
   dataset: "production",
 
   plugins: [deskTool(), visionTool()],
